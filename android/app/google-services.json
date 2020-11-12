@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126075386294",
+    "firebase_url": "https://relentless-trade.firebaseio.com",
+    "project_id": "relentless-trade",
+    "storage_bucket": "relentless-trade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126075386294:android:503a4942e79f0d43",
+        "android_client_info": {
+          "package_name": "com.thirdessential.tradingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126075386294-03ghe713crv0v0j7ljkl5fpp03cg87c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZbJzPq5LmZKgznun-MPbTQD2HfVP07nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126075386294-03ghe713crv0v0j7ljkl5fpp03cg87c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
